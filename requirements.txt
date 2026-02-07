@@ -1,0 +1,8 @@
+fastapi~=0.128.0
+uvicorn
+pydantic~=2.12.4
+numpy
+opencv-python-headless
+pillow
+paddleocr~=3.4.0
+paddlepaddle=3.2.2

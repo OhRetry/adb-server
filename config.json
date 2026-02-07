@@ -1,0 +1,6 @@
+{
+  "adb_path": "C:\\LDPlayer\\LDPlayer9\\adb",
+  "general_worker_thread_count": 2,
+  "ocr_worker_thread_count": 2,
+  "ocr_possible_languages": ["en"]
+}
